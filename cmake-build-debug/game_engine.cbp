@@ -80,10 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/admin/Documents/GitHub/game_engine/hittable.h">
+			<Option target="game_engine"/>
+		</Unit>
+		<Unit filename="/Users/admin/Documents/GitHub/game_engine/hittable_list.h">
+			<Option target="game_engine"/>
+		</Unit>
 		<Unit filename="/Users/admin/Documents/GitHub/game_engine/main.cpp">
 			<Option target="game_engine"/>
 		</Unit>
 		<Unit filename="/Users/admin/Documents/GitHub/game_engine/ray.h">
+			<Option target="game_engine"/>
+		</Unit>
+		<Unit filename="/Users/admin/Documents/GitHub/game_engine/sphere.h">
 			<Option target="game_engine"/>
 		</Unit>
 		<Unit filename="/Users/admin/Documents/GitHub/game_engine/vec3.h">
