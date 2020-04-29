@@ -3,4 +3,4 @@ project(game_engine)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(game_engine main.cpp vec3.h)
+add_executable(game_engine main.cpp vec3.h ray.h)

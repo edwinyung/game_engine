@@ -9,8 +9,14 @@
 /Users/admin/Documents/GitHub/game_engine/main.cpp
 vec3.h
 /Users/admin/Documents/GitHub/game_engine/vec3.h
+ray.h
+/Users/admin/Documents/GitHub/game_engine/ray.h
 iostream
 -
+
+/Users/admin/Documents/GitHub/game_engine/ray.h
+vec3.h
+/Users/admin/Documents/GitHub/game_engine/vec3.h
 
 /Users/admin/Documents/GitHub/game_engine/vec3.h
 iostream
