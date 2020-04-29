@@ -71,20 +71,23 @@ hittable_list random_scene() {
 }
 
 void image() {
-    const int image_width = 200;
-    const int image_height = 100;
-    const int samples_per_pixel = 100;
+//    const int image_width = 200;
+//    const int image_height = 100;
+//    const int samples_per_pixel = 100;
+    const int image_width = 1200;
+    const int image_height = 800;
+    const int samples_per_pixel = 10;
     const int max_depth = 50;
 
     std::cout << "P3\n" << image_width << ' ' << image_height << "\n255\n";
-    vec3 lower_left_corner(-2.0, -1.0, -1.0);
-    vec3 horizontal(4.0, 0.0, 0.0);
-    vec3 vertical(0.0, 2.0, 0.0);
-    vec3 origin(0.0, 0.0, 0.0);
+//    vec3 lower_left_corner(-2.0, -1.0, -1.0);
+//    vec3 horizontal(4.0, 0.0, 0.0);
+//    vec3 vertical(0.0, 2.0, 0.0);
+//    vec3 origin(0.0, 0.0, 0.0);
 
 //    auto R = cos(pi/4);
     auto world = random_scene();
-    
+
     const auto aspect_ratio = double(image_width) / image_height;
     vec3 lookfrom(13,2,3);
     vec3 lookat(0,0,0);
