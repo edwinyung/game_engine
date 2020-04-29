@@ -83,6 +83,9 @@
 		<Unit filename="/Users/admin/Documents/GitHub/game_engine/main.cpp">
 			<Option target="game_engine"/>
 		</Unit>
+		<Unit filename="/Users/admin/Documents/GitHub/game_engine/vec3.h">
+			<Option target="game_engine"/>
+		</Unit>
 		<Unit filename="/Users/admin/Documents/GitHub/game_engine/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

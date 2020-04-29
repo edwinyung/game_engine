@@ -7,6 +7,14 @@
 #IncludeRegexTransform: 
 
 /Users/admin/Documents/GitHub/game_engine/main.cpp
+vec3.h
+/Users/admin/Documents/GitHub/game_engine/vec3.h
 iostream
+-
+
+/Users/admin/Documents/GitHub/game_engine/vec3.h
+iostream
+-
+cmath
 -
 
