@@ -92,6 +92,9 @@
 		<Unit filename="/Users/admin/Documents/GitHub/game_engine/ray.h">
 			<Option target="game_engine"/>
 		</Unit>
+		<Unit filename="/Users/admin/Documents/GitHub/game_engine/rtweekend.h">
+			<Option target="game_engine"/>
+		</Unit>
 		<Unit filename="/Users/admin/Documents/GitHub/game_engine/sphere.h">
 			<Option target="game_engine"/>
 		</Unit>

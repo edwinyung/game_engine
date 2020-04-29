@@ -6,15 +6,49 @@
 
 #IncludeRegexTransform: 
 
-/Users/admin/Documents/GitHub/game_engine/main.cpp
-vec3.h
-/Users/admin/Documents/GitHub/game_engine/vec3.h
+/Users/admin/Documents/GitHub/game_engine/hittable.h
 ray.h
 /Users/admin/Documents/GitHub/game_engine/ray.h
+
+/Users/admin/Documents/GitHub/game_engine/hittable_list.h
+hittable.h
+/Users/admin/Documents/GitHub/game_engine/hittable.h
+memory
+-
+vector
+-
+
+/Users/admin/Documents/GitHub/game_engine/main.cpp
+rtweekend.h
+/Users/admin/Documents/GitHub/game_engine/rtweekend.h
+hittable_list.h
+/Users/admin/Documents/GitHub/game_engine/hittable_list.h
+sphere.h
+/Users/admin/Documents/GitHub/game_engine/sphere.h
 iostream
 -
 
 /Users/admin/Documents/GitHub/game_engine/ray.h
+vec3.h
+/Users/admin/Documents/GitHub/game_engine/vec3.h
+
+/Users/admin/Documents/GitHub/game_engine/rtweekend.h
+cmath
+-
+cstdlib
+-
+limits
+-
+memory
+-
+ray.h
+/Users/admin/Documents/GitHub/game_engine/ray.h
+vec3.h
+/Users/admin/Documents/GitHub/game_engine/vec3.h
+
+/Users/admin/Documents/GitHub/game_engine/sphere.h
+hittable.h
+/Users/admin/Documents/GitHub/game_engine/hittable.h
 vec3.h
 /Users/admin/Documents/GitHub/game_engine/vec3.h
 
