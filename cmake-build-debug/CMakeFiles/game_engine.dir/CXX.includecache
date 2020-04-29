@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/admin/Documents/GitHub/game_engine/camera.h
+rtweekend.h
+/Users/admin/Documents/GitHub/game_engine/rtweekend.h
+
 /Users/admin/Documents/GitHub/game_engine/hittable.h
 ray.h
 /Users/admin/Documents/GitHub/game_engine/ray.h
@@ -25,6 +29,8 @@ hittable_list.h
 /Users/admin/Documents/GitHub/game_engine/hittable_list.h
 sphere.h
 /Users/admin/Documents/GitHub/game_engine/sphere.h
+camera.h
+/Users/admin/Documents/GitHub/game_engine/camera.h
 iostream
 -
 

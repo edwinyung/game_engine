@@ -8,7 +8,6 @@
 #include <iostream>
 #include <cmath>
 
-
 class vec3 {
     public:
         vec3() : e{0,0,0} {}

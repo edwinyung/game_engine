@@ -29,17 +29,12 @@ inline double degrees_to_radians(double degrees) {
 inline double ffmin(double a, double b) { return a <= b ? a : b; }
 inline double ffmax(double a, double b) { return a >= b ? a : b; }
 
-// Common Headers
-
-#include "ray.h"
-#include "vec3.h"
-
 // Randomizer Functions
 
 inline double random_double() {
     // Returns a random real in [0,1).
     return rand() / (RAND_MAX + 1.0);
-
+}
 
 inline double random_double(double min, double max) {
     // Returns a random real in [min,max).
@@ -53,6 +48,11 @@ inline double clamp(double x, double min, double max) {
     return x;
 }
 
+
+// Common Headers
+
+#include "ray.h"
+#include "vec3.h"
 
 
 #endif //GAME_ENGINE_RTWEEKEND_H
