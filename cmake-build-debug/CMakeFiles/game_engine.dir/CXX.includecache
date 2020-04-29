@@ -11,6 +11,8 @@ rtweekend.h
 /Users/admin/Documents/GitHub/game_engine/rtweekend.h
 
 /Users/admin/Documents/GitHub/game_engine/hittable.h
+rtweekend.h
+/Users/admin/Documents/GitHub/game_engine/rtweekend.h
 ray.h
 /Users/admin/Documents/GitHub/game_engine/ray.h
 
@@ -31,8 +33,12 @@ sphere.h
 /Users/admin/Documents/GitHub/game_engine/sphere.h
 camera.h
 /Users/admin/Documents/GitHub/game_engine/camera.h
+material.h
+/Users/admin/Documents/GitHub/game_engine/material.h
 iostream
 -
+
+/Users/admin/Documents/GitHub/game_engine/material.h
 
 /Users/admin/Documents/GitHub/game_engine/ray.h
 vec3.h

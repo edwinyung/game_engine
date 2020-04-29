@@ -6,6 +6,7 @@ CMakeFiles/game_engine.dir/main.cpp.o
  /Users/admin/Documents/GitHub/game_engine/hittable.h
  /Users/admin/Documents/GitHub/game_engine/hittable_list.h
  /Users/admin/Documents/GitHub/game_engine/main.cpp
+ /Users/admin/Documents/GitHub/game_engine/material.h
  /Users/admin/Documents/GitHub/game_engine/ray.h
  /Users/admin/Documents/GitHub/game_engine/rtweekend.h
  /Users/admin/Documents/GitHub/game_engine/sphere.h

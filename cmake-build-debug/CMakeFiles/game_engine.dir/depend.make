@@ -5,6 +5,7 @@ CMakeFiles/game_engine.dir/main.cpp.o: ../camera.h
 CMakeFiles/game_engine.dir/main.cpp.o: ../hittable.h
 CMakeFiles/game_engine.dir/main.cpp.o: ../hittable_list.h
 CMakeFiles/game_engine.dir/main.cpp.o: ../main.cpp
+CMakeFiles/game_engine.dir/main.cpp.o: ../material.h
 CMakeFiles/game_engine.dir/main.cpp.o: ../ray.h
 CMakeFiles/game_engine.dir/main.cpp.o: ../rtweekend.h
 CMakeFiles/game_engine.dir/main.cpp.o: ../sphere.h
